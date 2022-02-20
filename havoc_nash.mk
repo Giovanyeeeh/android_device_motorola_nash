@@ -26,7 +26,7 @@ PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := nash
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_MODEL := Moto Z (2)
-PRODUCT_NAME := lineage_nash
+PRODUCT_NAME := havoc_nash
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=nash \
